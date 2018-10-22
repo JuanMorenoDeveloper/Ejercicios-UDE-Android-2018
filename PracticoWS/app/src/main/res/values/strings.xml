@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">PracticoWS</string>
+  <string name="tv_lbl_type">Type:</string>
+  <string name="tv_lbl_id">Id:</string>
+  <string name="tv_lbl_quote">Quote:</string>
+  <string name="btn_llamar">Llamar</string>
+</resources>
